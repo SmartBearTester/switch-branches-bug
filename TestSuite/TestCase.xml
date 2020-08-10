@@ -6,7 +6,8 @@
   <con:testStep type="groovy" name="Groovy Script" id="81c63b3c-10ca-4a1d-9a04-3eecc1805bef">
     <con:settings/>
     <con:config>
-      <script>log.info("Master branch initial script")</script>
+      <script>log.info("Master branch initial script")
+log.info("Commit to Branch 1")</script>
     </con:config>
   </con:testStep>
   <con:properties/>
