@@ -7,7 +7,8 @@
     <con:settings/>
     <con:config>
       <script>log.info("Master branch initial script")
-log.info("Commit to Branch 1")</script>
+log.info("Commit to Branch 1")
+log.info("Commit to Branch 2")</script>
     </con:config>
   </con:testStep>
   <con:properties/>
